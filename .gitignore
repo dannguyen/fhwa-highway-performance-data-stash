@@ -9,8 +9,9 @@ foobar.*
 junk/
 data/stashed/zips/
 !data/stashed/zips/201*/districtofcolumbia.zip
-data/stashed/unpacked/
-!data/stashed/unpacked/**/districtofcolumbia/
+data/stashed/csvs
+data/stashed/unpacked
+
 # try to prevent the inclusion of credentials
 creds/
 creds*.*

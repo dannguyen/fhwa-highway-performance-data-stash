@@ -6,7 +6,7 @@ import re
 from urllib.parse import urljoin
 
 
-DEST_PATH = Path('data', 'collated', 'hpms-zipurls.csv')
+DEST_PATH = Path('data', 'lookups', 'hpms-zipurls.csv')
 SRC_PATH = Path('data', 'stashed', 'hpms-original.html')
 SRC_URL = 'https://www.fhwa.dot.gov/policyinformation/hpms/shapefiles.cfm'
 

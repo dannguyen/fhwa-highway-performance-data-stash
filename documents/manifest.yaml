@@ -1,0 +1,21 @@
+
+hpms_field_manual_dec2016.pdf:
+  title: Highway Performance Monitoring System Field Manual (Dec 2016)
+  url: https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual/hpms_field_manual_dec2016.pdf
+  landing_page: https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual/
+  description: |
+    This HPMS Field Manual provides a comprehensive overview of the HPMS program, and describes in detail the data collection and reporting requirements for HPMS. The requirements outlined in the Field Manual are authorized under 23 U.S.C. 315, which places the authority on the Secretary of Transportation for National management decisions affecting transportation. In addition, The United States Code of Federal Regulations (CFR) title 23, §1.5 provides the Federal Highway Administrator with authority to request such information deemed necessary to administer the Federal-aid highway program. Also, 23 CFR 420.105(b) requires the States to provide data that support FHWA’s responsibilities to the Congress and the public. The HPMS Field Manual is a valuable resource that guides the States as they address their HPMS data collection and reporting responsibilities. This manual includes detailed information on technical procedures, a glossary of terms, and various tables to be used as reference by those collecting and reporting HPMS data. Information related to the use of the HPMS software web application is contained in a stand-alone document.
+
+
+hpms-manual-errata-2018.pdf:
+  url: https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual/page20.cfm
+  landing_page: https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual/
+  description: |
+    (printed webpage as PDF)
+
+    The FHWA intends to correct these errors via a future rulemaking action. This list of known errors is provided solely for the information of HPMS Field Manual users and does not constitute official changes to the HPMS Field Manual at this time.
+
+highway-stats-2016-hm10-public-road-length.pdf:
+  title: PUBLIC ROAD LENGTH - 2016 MILES BY OWNERSHIP
+  url: https://www.fhwa.dot.gov/policyinformation/statistics/2016/pdf/hm10.pdf
+  landing_page: https://www.fhwa.dot.gov/policyinformation/statistics/2016/

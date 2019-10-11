@@ -9,7 +9,7 @@ from zipfile import ZipFile
 
 
 DEST_DIR = Path('data', 'stashed')
-SRC_PATH = Path('data', 'collated', 'hpms-zipurls.csv')
+SRC_PATH = Path('data', 'lookups', 'hpms-zipurls.csv')
 
 
 def create_destpath(link):

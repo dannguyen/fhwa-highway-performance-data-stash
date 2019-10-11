@@ -7,8 +7,8 @@ datadump/
 foobar/
 foobar.*
 junk/
-data/stashed/20*/*.zip
-
+data/stashed/zips/
+!data/stashed/zips/201*/districtofcolumbia.zip
 # try to prevent the inclusion of credentials
 creds/
 creds*.*
